@@ -12,5 +12,4 @@ public class RunnableTest {
 		threads[i].start();
 		}
 	}
-
 }
